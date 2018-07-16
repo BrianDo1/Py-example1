@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 def main(msg):
-    #print message
+    #print message 2
     print(msg)
 
 def secondary():
